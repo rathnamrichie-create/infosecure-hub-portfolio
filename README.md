@@ -29,4 +29,4 @@ A comprehensive cybersecurity training platform offering CompTIA Network+, CompT
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/infosecure-hub.git
+git clone https://github.com/Rathnamrichie/infosecure-hub.git
